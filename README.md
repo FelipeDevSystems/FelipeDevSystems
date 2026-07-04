@@ -5,7 +5,7 @@
 Olá! Me chamo Felipe Rodrigues de Souza, moro em São Bernardo do Campo (Grande ABC/SP) e tenho 18 anos. Sou graduado no ensino médio e, atualmente, estou cursando o técnico em Desenvolvimento de Sistemas na ETEC. Sou um jovem motivado, sempre em busca de aprender novas tecnologias e com o objetivo de ingressar no mercado de TI para evoluir profissionalmente e agregar valor à equipe. 
 
 Meu perfil no LinkedIn
-<a href="www.linkedin.com/in/feliperodrigues-souza">
+<a href="linkedin.com/in/feliperodrigues-souza">
 <img 
     align="left" 
     alt="LinkedIn"
